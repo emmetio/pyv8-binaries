@@ -1,4 +1,4 @@
-# Deprecation notice: this project is no longer maintained and it’s not required for Emmet anymore: check out upcoming [Emmet 2](https://github.com/emmetio/sublime-text-plugin) plugin, which is pure Python implementation of Emmet code base.
+## Deprecation notice: this project is no longer maintained and it’s not required for Emmet anymore. Check out upcoming [Emmet 2](https://github.com/emmetio/sublime-text-plugin) plugin, which is pure Python implementation of Emmet code base.
 
 ----
 
